@@ -4,7 +4,7 @@
 This project allows developers and individuals to upload/downlaod their contents into popular storage services such as Azure Blob Storage and Amazon S3 Service.
 
 ## To-Do
-- &#9744; Add Login endpoint for JWT support
+- [ ] Add Login endpoint for JWT support
 - [ ] Add multi-upload/download support
 
 ## Set up
