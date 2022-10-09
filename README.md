@@ -1,7 +1,7 @@
 
 # File Operations
 
-This project allows developers and individuals to upload/downlaod their contents into popular storage services such as Azure Blob Storage and Amazon S3 Service.
+This project allows developers and individuals to upload/download their contents into popular storage services such as Azure Blob Storage and Amazon S3 Service.
 
 ## To-Do
 - [ ] Add Login endpoint for JWT support
